@@ -4,7 +4,7 @@
 
 - 👋 Hi, I’m @NNJio 
 - 👀 I’m interested in mobile developer
-- 💞️ I’m looking to collaborate on software house in thailand
+- 💞️ I'm looking for a new challenge to improve myself.
 - 🌱 I'm looking for a job Flutter developer position. If anyone is interested in working with me. please contact at
 - Email: phatsakorn.newz@gmail.com                
 - Line: immortalnew
